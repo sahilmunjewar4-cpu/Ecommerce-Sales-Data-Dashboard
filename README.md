@@ -218,7 +218,7 @@ The dashboard contains the following major visuals:
 
 The overall workflow of the project is:
 
-```text
+
 Raw E-Commerce Data
         ↓
 Data Cleaning
@@ -235,3 +235,7 @@ Interactive Dashboard
         ↓
 Business Insights
 
+'''
+## Screen Shot / Demo
+
+Show What the dashboard look like (https://github.com/sahilmunjewar4-cpu/Ecommerce-Sales-Data-Dashboard/blob/main/Dashboard.png)
